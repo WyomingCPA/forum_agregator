@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d9831f87bbb28dbdc3fde9ca6ca1ffb1c1494923415; path="/"; domain=".searchengines.guru"; path_spec; domain_dot; expires="2018-05-16 08:30:15Z"; HttpOnly=None; version=0
+Set-Cookie3: bblastactivity=0; path="/"; domain="searchengines.guru"; path_spec; expires="2018-05-16 08:35:08Z"; version=0
+Set-Cookie3: bblastvisit=1494923415; path="/"; domain="searchengines.guru"; path_spec; expires="2018-05-16 08:30:09Z"; version=0
+Set-Cookie3: bbsessionhash=096d45c7231beea8eba57a1d0c7b8dcc; path="/"; domain="searchengines.guru"; path_spec; discard; HttpOnly=None; version=0
