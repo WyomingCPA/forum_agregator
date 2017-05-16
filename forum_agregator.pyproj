@@ -43,6 +43,9 @@
     <Compile Include="forum\management\commands\__init__.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="forum\management\push_count_advert.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="forum\management\__init__.py">
       <SubType>Code</SubType>
     </Compile>
